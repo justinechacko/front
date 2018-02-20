@@ -1,7 +1,7 @@
 title: Jekyll-Store
 description: 'A lightweight, backend-free ecommerce solution.'
-baseurl: /front
-url: 'http://www.jekyll-store.com'
+baseurl: '/front'
+url: 'https://www.justinechacko.github.io'
 
 # Jekyll-Store Engine
 defaultAddress:
